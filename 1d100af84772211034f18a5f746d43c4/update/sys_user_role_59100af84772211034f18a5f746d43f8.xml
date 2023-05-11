@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user read role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_22541_tfe.userread</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>userread</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-11 22:13:06</sys_created_on>
+        <sys_id>59100af84772211034f18a5f746d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_22541_tfe.userread</sys_name>
+        <sys_package display_value="TFE" source="x_22541_tfe">1d100af84772211034f18a5f746d43c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TFE">1d100af84772211034f18a5f746d43c4</sys_scope>
+        <sys_update_name>sys_user_role_59100af84772211034f18a5f746d43f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-11 22:13:06</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8504ef84772211034f18a5f746d432b" label="Project" max_length="40" name="x_22541_tfe_project" type="collection">
+        <element label="Project Name" max_length="40" name="projectname" type="string"/>
+        <element label="Project Description" max_length="40" name="project_description" type="string"/>
+    </element>
+</database>
